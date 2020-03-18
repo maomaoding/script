@@ -9,3 +9,6 @@ tensorboard --logdir="/path/to/log-directory"
 最后，在本地访问地址：http://127.0.0.1:16006/
 原理
 建立ssh隧道，实现远程端口到本地端口的转发 具体来说就是将远程服务器的6006端口（tensorboard默认将数据放在6006端口）转发到本地的16006端口，在本地对16006端口的访问即是对远程6006端口的访问，当然，转发到本地某一端口不是限定的，可自由选择。
+
+# Resources
+[Cambridge University Press is making higher education textbooks in HTML format free to access online during th coronavirus outbreak](https://www.cambridge.org/core/what-we-publish/textbooks)
