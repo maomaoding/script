@@ -12,3 +12,6 @@ tensorboard --logdir="/path/to/log-directory"
 
 # Resources
 [Cambridge University Press is making higher education textbooks in HTML format free to access online during th coronavirus outbreak](https://www.cambridge.org/core/what-we-publish/textbooks)
+
+## ubuntu cleaning root space
+https://itsfoss.com/free-up-space-ubuntu-linux/
